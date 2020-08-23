@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **solar05/solar05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Solar05's GitHub Stats](https://github-readme-stats.vercel.app/api?username=solar05&include_all_commits=true&show_icons=true&theme=synthwave&show_owner=true)
