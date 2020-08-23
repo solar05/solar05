@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Solar05's GitHub Stats](https://github-readme-stats.vercel.app/api?username=solar05&include_all_commits=true&show_icons=true&theme=synthwave&show_owner=true)
+![Solar05's GitHub Stats](https://github-readme-stats.vercel.app/api?username=solar05&include_all_commits=true&show_icons=true&theme=synthwave&show_owner=true&hide=stars)
