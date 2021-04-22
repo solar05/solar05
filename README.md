@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+(def preffered-lang ["clojure" "elixir" "ruby"])
+
 ![Solar05's GitHub Stats](https://github-readme-stats.vercel.app/api?username=solar05&include_all_commits=true&show_icons=true&theme=synthwave&show_owner=true&hide=stars)
+[![Solar05's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=solar05&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
