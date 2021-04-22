@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 ![Solar05's GitHub Stats](https://github-readme-stats.vercel.app/api?username=solar05&include_all_commits=true&show_icons=true&theme=synthwave&show_owner=true&hide=stars)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solar05&layout=compact&theme=synthwave&langs_count=10&hide=html,css,blade)
-
-![Solar05's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=solar05&theme=synthwave)
