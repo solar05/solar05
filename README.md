@@ -17,6 +17,8 @@ I'm a Backend Developer, currently working at [@bookmate](https://github.com/boo
 
 How to contact me: Just send email to [solar7455](mailto:solar7455@gmail.com)
 
+My education: Master's Degree in 09.03.01 Informatics and Computer Engineering
+
 ## My tech stack
 
 ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -31,6 +33,7 @@ How to contact me: Just send email to [solar7455](mailto:solar7455@gmail.com)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Clojure-239120?style=for-the-badge&logo=clojure&logoColor=white)
+
 ```clojure
 (def preffered-lang ["clojure" "elixir" "ruby"])
 ```
