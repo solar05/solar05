@@ -39,5 +39,4 @@ My education: Master's Degree in 09.03.01 Informatics and Computer Engineering
 ```
 
 ## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solar05&layout=compact&theme=synthwave&langs_count=10&hide=html,css,blade)
-![Solar05's GitHub Stats](https://github-readme-stats.vercel.app/api?username=solar05&include_all_commits=true&show_icons=true&theme=synthwave&show_owner=true&hide=stars)
+![Metrics](/github-metrics.svg)
