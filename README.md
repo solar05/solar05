@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hi there 👋
 I'm a Backend Developer, currently working at [@bookmate](https://github.com/bookmate).
 
-How to contact me: Just send email to [solar7455](mailto:solar7455@gmail.com)
+How to contact me: Just send email to [solar7455@gmail.com](mailto:solar7455@gmail.com)
 
 My education: Master's Degree in 09.03.01 Informatics and Computer Engineering
 
@@ -40,3 +40,5 @@ My education: Master's Degree in 09.03.01 Informatics and Computer Engineering
 
 ## Github Stats
 ![Metrics](/github-metrics.svg)
+
+[![](https://visitcount.itsvg.in/api?id=solar05&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
