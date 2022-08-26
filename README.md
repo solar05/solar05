@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there 👋
-I'm a Backend Developer, currently working at [@bookmate](https://github.com/bookmate).
+I'm a Elixir Developer, currently working at [samokat]( https://samokat.ru).
 
 How to contact me: Just send email to [solar7455@gmail.com](mailto:solar7455@gmail.com)
 
