@@ -17,7 +17,7 @@ I'm a Elixir Developer, currently working at [samokat]( https://samokat.ru).
 
 How to contact me: Just send email to [solar7455@gmail.com](mailto:solar7455@gmail.com)
 
-My education: Master's Degree in 09.03.01 Informatics and Computer Engineering
+My education: Master's Degree in Informatics and Computer Engineering
 
 ## My tech stack
 
