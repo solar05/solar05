@@ -8,7 +8,6 @@ My education: Master's Degree in Informatics and Computer Engineering.
 ## My tech stack
 
 ![](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-![](https://img.shields.io/badge/Phoenix-ED8B00?style=for-the-badge&logo=phoenix&logoColor=white)
 ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
