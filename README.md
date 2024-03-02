@@ -21,5 +21,3 @@ My education: Master's Degree in Informatics and Computer Engineering.
 
 ## Github Stats
 ![Metrics](/github-metrics.svg)
-
-[![](https://visitcount.itsvg.in/api?id=solar05&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
