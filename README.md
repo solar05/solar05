@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Lead Elixir Developer, currently working at [Samokat.Tech](https://samokat.tech/).
+I'm a Product Tech Leader, currently working at [Samokat.Tech](https://samokat.tech/).
 
 How to contact me: Just send email to [solar7455@gmail.com](mailto:solar7455@gmail.com)
 
